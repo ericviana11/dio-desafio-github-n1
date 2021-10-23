@@ -1,0 +1,6 @@
+>> Sha1 = a encriptação gera conjunto de characteres indentificador de 40 digitos
+
+>> Objetos git = Blobs / trees / commits
+
+>> Gui = graphical user interface
+>> Cli= command line ionterface
